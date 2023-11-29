@@ -76,7 +76,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 <div align="center">
   <table><tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YesItsKishan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" />
 
 </td><td valign="" width="150%">
 
