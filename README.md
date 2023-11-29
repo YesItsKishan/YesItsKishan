@@ -81,7 +81,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 </td><td valign="" width="150%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesItsKishan&hide_border=true&layout=compact" align="center" style="width: 60%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YesItsKishan&" alt="nistha01" align="center"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YesItsKishan&" alt="YesItsKishan" align="center"/></p>
 
 
 </tr></table>  
